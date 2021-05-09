@@ -5,4 +5,4 @@ See in https://arxiv.org/abs/2102.03709
 ## Future direction
 Change hyper-parameters.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
