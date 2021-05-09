@@ -6,3 +6,4 @@ See in https://arxiv.org/abs/2102.03709
 Change hyper-parameters.
 
 Creating a new branch is quick and simple.
+Add merge with no-ff. 
